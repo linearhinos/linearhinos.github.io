@@ -1,0 +1,10 @@
+# Site settings
+title: 犀牛小易
+SEOTitle: 犀牛小易的博客 | Linearhinos Blog
+header-img: img/home-bg-hill.jpg
+email: albertguwn@qq.com
+description: "描述"
+keyword: "犀牛小易 Linearhinos"
+url: "https://linearhinos.github.io"
+baseurl: "/blog"
+theme: minima
